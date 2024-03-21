@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">AttendanceTracker</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="dayWeek">Daily/Weekly</string>
+    <string name="FullMorning">9:00AM-11:00AM</string>
+    <string name="HalfMorning">9:00AM-10:00AM</string>
+    <string name="SecHalfMorning">10:00AM-11:00AM</string>
+    <string name="FullNoon">11:300AM-1:30PM</string>
+    <string name="HalfNoon">11:30AM-12:30PM</string>
+    <string name="SecHalfNoon">12:30PM-1:30PM</string>
+    <string name="FullAfternoon">2:30PM-4:30PM</string>
+    <string name="HalfAfternoon">2:30PM-3:30PM</string>
+    <string name="SecHalfAfternoon">3:30PM-4:30PM</string>
+</resources>
